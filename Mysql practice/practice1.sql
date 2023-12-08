@@ -1,3 +1,4 @@
+/*using thescholar database*/
 use thescholar;
 select * from employee;
 select * from departments;
